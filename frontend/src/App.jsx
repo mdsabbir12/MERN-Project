@@ -12,7 +12,7 @@ import { ToastContainer } from 'react-toastify'
 // import Build from './components/Build'
 // import Body4 from './components/Body4'
 
-export const backendurl= "http://localhost:4000"
+export const backendurl= "https://mern-project-fpc3.onrender.com"
 
 
 
